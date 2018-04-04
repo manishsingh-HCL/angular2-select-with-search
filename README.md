@@ -2,7 +2,7 @@
 It is a custom component to implement select dropdown with search option in any Angular 2+ project.
 
 # Why selectbox with search option?
-suppose we have to select a value from a large list of data from dropdown and in normal case user need to scroll too much for single value selection. With Search option user can search the value instantly and can select it.
+If we have to select a value from a large list of data from dropdown and in normal case user need to scroll too much for single value selection. With Search option user can search the value instantly and can select it.
 
 ## Using the complete angular project
 
